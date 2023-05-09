@@ -43,15 +43,15 @@ Con esto en mente, se tiene un diagrama de flujo para el programa, con esto se t
 
 
 En cuanto al programa por elaborar, se debe implementar basasndose en las isntrucciones RISCVi; por lo que la siguiente lista  determina que al menos una de cada instruccióin deberá ejecutarse dentro del programa.
-
++ add
 + addi
-+ lui
-+ andi
-+ ori
-+ xori
++ lw
++ sw
++ and
++ or
++ xor
 + slli
 + srli
-+ srai
 + jal
 
 ## Referencias Bibliográficas
